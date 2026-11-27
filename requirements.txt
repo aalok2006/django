@@ -1,0 +1,12 @@
+# Python / Django Backend Requirements
+# Project: TerraPulse GovTech — Predictive Analytics System for Early Detection of Land Acquisition Delays
+Django>=5.0,<5.2
+djangorestframework>=3.15.0
+scikit-learn>=1.5.0
+numpy>=1.26.0
+pandas>=2.2.0
+opencv-python-headless>=4.10.0.84
+Pillow>=10.4.0
+psycopg2-binary>=2.9.9
+gunicorn>=22.0.0
+python-dotenv>=1.0.1

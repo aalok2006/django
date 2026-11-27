@@ -1,0 +1,8 @@
+{
+  "name": "LandSense AI",
+  "description": "AI-powered platform predicting infrastructure land acquisition delays and analyzing surface land conditions for proactive project management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
